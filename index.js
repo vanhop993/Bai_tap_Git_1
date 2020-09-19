@@ -1,3 +1,3 @@
-var dev = function(){
-    console.log('dev');
+var master = function(){
+    console.log('master');
 }
